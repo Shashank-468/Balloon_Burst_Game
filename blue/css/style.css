@@ -1,0 +1,253 @@
+.background {
+
+background:url("backgroundinner.jpg");
+background-size:cover;
+background-repeat:no-repeat;
+}
+
+
+.board {
+  width: 800px;
+  height: 600px;
+  float: right;
+  border:5px solid gray;
+  position:absolute;
+  overflow:hidden;
+  margin:100px 100px 100px 320px;;
+  background: url('../images/background.jpg');
+  background-size:cover;
+  background-repeat:no-repeat;
+  
+}
+
+.sidebar {
+  width: 340px;
+  float: left;
+}
+
+.balloon {
+  position: absolute;
+  bottom: -50px;
+}
+.balloon2 {
+  position: absolute;
+  bottom: -50px;
+}
+
+.balloon3 {
+  position: absolute;
+  bottom: -50px;
+}
+
+.balloon4 {
+  position: absolute;
+  bottom: -50px;
+}
+
+.logo {
+  font-size: 40px;
+  text-align: center;
+  padding: 10px;
+  font-family: 'Press Start 2P', cursive;
+  color: #FFFF99;
+}
+
+.starttext {
+  text-align: center;
+  font-size: 40;
+  margin: 40px;
+  font-family: 'Press Start 2P', cursive;
+  color: #FFFF99;
+}
+#level1 {
+  text-align: center;
+  font-size: 40;
+  margin: 40px;
+  margin-top:40px;
+  font-family: 'Press Start 2P', cursive;
+  color: #FFFF99;
+}
+#val1 {
+  text-align: center;
+  font-size: 40;
+  margin: 40px;
+  margin-top:40px;
+  font-family: 'Press Start 2P', cursive;
+  color: #FFFF99;
+}
+#level2 {
+  text-align: center;
+  font-size: 40;
+  margin: 40px;
+  margin-top:40px;
+  font-family: 'Press Start 2P', cursive;
+  color: #FFFF99;
+}
+#val2 {
+  text-align: center;
+  font-size: 40;
+  margin: 40px;
+  margin-top:40px;
+  font-family: 'Press Start 2P', cursive;
+  color: #FFFF99;
+}
+#level3 {
+  text-align: center;
+  font-size: 40;
+  margin: 40px;
+  margin-top:40px;
+  font-family: 'Press Start 2P', cursive;
+  color: #FFFF99;
+}
+#val3 {
+  text-align: center;
+  font-size: 40;
+  margin: 40px;
+  margin-top:40px;
+  font-family: 'Press Start 2P', cursive;
+  color: #FFFF99;
+}
+#total {
+  text-align: center;
+  font-size: 40;
+  margin: 40px;
+  margin-top:40px;
+  font-family: 'Press Start 2P', cursive;
+  color: #FFFF99;
+}
+
+#val4 {
+  text-align: center;
+  margin: 40px;
+  margin-top:40px;
+  font-size:60px;
+  font-family:forte;
+  color:green;
+  text-shadow:2px 2px 4px black;
+}
+.startbutton {
+  text-align: center;
+  font-size: 40px;
+  position:absolute;
+  margin: 20px 20px 20px 340px;
+  font-family: algerian;
+  color: black;
+  border:1px solid gray;
+  background:white;
+ 
+}
+
+.startbutton:hover {
+  background:lightgreen;
+  color:black;
+}
+
+
+.reset-button {
+  text-align: center;
+  font-size: 40px;
+  position:absolute;
+  margin: 20px 20px 20px 260px;
+  font-family: algerian;
+  color: black;
+  border:1px solid gray;
+  background:white;
+ 
+}
+
+
+.reset-button1 {
+  text-align: center;
+  font-size: 40px;
+  position:absolute;
+  margin: 20px 20px 20px 260px;
+  font-family: algerian;
+  color: black;
+  border:1px solid gray;
+  background:white;
+ 
+}
+
+.reset-button2 {
+  text-align: center;
+  font-size: 40px;
+  position:absolute;
+  margin: 120px 20px 20px 340px;
+  font-family: algerian;
+  color: black;
+  border:1px solid gray;
+  background:white;
+ 
+}
+.reset-button:hover{
+	background:lightgreen;
+	color:black;
+}
+
+.reset-button1:hover{
+	background:lightgreen;
+	color:black;
+}
+
+.reset-button2:hover{
+	background:lightgreen;
+	color:black;
+}
+
+.gameover {
+  text-align: center;
+  font-size: 80px;
+  margin: 40px;
+  font-family: 'Press Start 2P', cursive;
+  color: #FFFF99;
+}
+
+
+
+#time {
+  font-size: 20px;
+  text-align: left;
+  margin: 40px;
+  font-family: 'Press Start 2P', cursive;
+  color: #FFFF99;
+}
+
+#score {
+  font-size: 30px;
+  text-align: left;
+  margin: 40px;
+  font-family: cursive;
+  color:black;
+}
+
+#colour {
+  font-size: 30px;
+  text-align: left;
+  margin: 40px;
+  font-family: cursive;
+  color: black;
+}
+
+#timer {
+  font-size: 30px;
+  text-align: left;
+  margin: 40px;
+  font-family:  cursive;
+  color:black;
+}
+
+#missed {
+  font-size: 20px;
+  text-align: left;
+  margin: 40px;
+  font-family: 'Press Start 2P', cursive;
+  color: #FFFF99;
+}
+
+#high-score {
+  font-size: 30px;
+  text-align: left;
+  margin: 40px;
+  font-family: cursive;
+  color: black;
+}
